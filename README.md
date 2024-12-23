@@ -81,9 +81,7 @@ Build your code 🔨🔨🔨
 Step 3
 🔃 Create a new pull request.
 ### Creadits :
-Django Library Management was created by Mohammad Burhan
-License
-License
+Library Management System was created by Lipa
 
 
   
