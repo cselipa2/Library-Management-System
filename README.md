@@ -2,12 +2,12 @@
 Django Library Management is a web application built with Django, Razorpay, and Tailwind CSS that provides an online platform for managing libraries.
 ## Installation 
 To install Django Music Player, follow these steps:
-1. Clone this repository:
-2. Navigate to the project directory:
-3. Create a virtual environment:
-4. Activate the virtual environment:
-5. Install the project dependencies:
-6. Run the server
+1. Clone this repository:https://github.com/cselipa2/Library-Management-System-Project
+2. Navigate to the project directory:cd TechVidvanLibrary
+3. Create a virtual environment:python -m venv venv
+4. Activate the virtual environment:.\venv\Scripts\Activate
+5. Install the project dependencies:  pip install -r requirements.txt
+6. Run the server:python manage.py runserver
 7. Go to localhost:8000
 ### Features of this project:
 # Anyone can
